@@ -22,7 +22,7 @@ The script shows all the basic steps required to establish an interaction to Lig
 * To build this demo, first install [CMake](https://cmake.org).
 * Clone the project [Lightstreamer C++ Client library](https://github.com/Lightstreamer/Lightstreamer-lib-client-haxe)
 * Following these [instructions](https://github.com/Lightstreamer/Lightstreamer-lib-client-haxe#cpp), build the *statically linked* version (with debug symbols) of the Lightstreamer Client SDK.
-* Write down the path pointing to the folder containing the generated C++ source files and binaries (e.g. `lib-client-haxe/lib-client-haxe/bin/cpp/mac/static-debug`).
+* Write down the *full path* to the folder containing the generated C++ source files and binaries (e.g. `~/git/lib-client-haxe/bin/cpp/mac/static-debug`).
 
 You can now build the demo executing the following commands:
 
