@@ -38,7 +38,7 @@ If you want to install a version of this demo pointing to your local Lightstream
 * As prerequisite, the [Lightstreamer - Stock- List Demo - Java Adapter](https://github.com/Lightstreamer/Lightstreamer-example-Stocklist-adapter-java) has to be deployed on your local Lightstreamer Server instance. Please check out that project and follow the installation instructions provided with it.
 * Launch Lightstreamer Server.
 
-To start the demo, run the executable `build/StockListDemo`.
+To start the demo, run the executable `build/StockListDemo` (or `build\Debug\StockListDemo.exe` in Windows).
 
 **Notes**:
 
